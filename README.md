@@ -13,7 +13,7 @@
   Document your fitness journey!
   <hr>
   <div id="instructions"><h2>Instructions</h2> </div>
-  <p>Visit trackmyworkout.herokuapp.com</p>
+  <p>Visit https://trackmyworkout.herokuapp.com</p>
   <hr>
   <div id="tech"><h2>Technology</h2></div>           
   <p> JavaScript, Node/Express.js, React.js, MongoDB</p>
