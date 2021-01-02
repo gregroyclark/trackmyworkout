@@ -13,13 +13,13 @@
   Document your fitness journey!
   <hr>
   <div id="instructions"><h2>Instructions</h2> </div>
-  <p>Visit trackmyworkout.herokuapp.com</p>
+  <p>Visit https://trackmyworkout.herokuapp.com</p>
   <hr>
   <div id="tech"><h2>Technology</h2></div>           
   <p> JavaScript, Node/Express.js, React.js, MongoDB</p>
   <hr>
   <div id="license"><h2>License</h2></div>
-  <p><img align="left" src= MIT></p><br>
+  <p><img align="left" src="https://img.shields.io/badge/License-MIT-blue"></p><br>
   <hr>
   <div id="screen"><h2>Screenshots</h2></div>
   <p><img src= ></p>
