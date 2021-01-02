@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import DatePicker from 'react-date-picker';
+import "react-date-picker/dist/react-datepicker.css";
 
 export default class CreateExercise extends Component {
     constructor(props) {
