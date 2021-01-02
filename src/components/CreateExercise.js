@@ -56,10 +56,10 @@ export default class CreateExercise extends Component {
         e.preventDefault();
 
         const exercise = {
-            username = this.state.username,
-            description = this.state.description,
-            duration = this.state.duration,
-            date = this.state.date
+            username: this.state.username,
+            description: this.state.description,
+            duration: this.state.duration,
+            date: this.state.date
         }
         console.log(exercise);
 
